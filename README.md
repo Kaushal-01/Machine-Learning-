@@ -10,16 +10,12 @@ It is designed as a **learning roadmap + coding reference**, useful for beginner
 ## 📂 Repository Structure
 ```text
 machine-learning/
-│
-├── 01_exploratory_data_analysis/     
+│ 
 │   ├── eda_uniuariate.ipynb
 │   ├── eda_multivartiate.ipynb
 │   └── profiling.ipynb
-│
-├── 02_
-│
-│── Under Process
-├── datasets/                  
-│   └── (sample datasets used in notebooks)
-│
+│   └── normalisation.ipynb
+│   └── standardiszation.ipynb
+│   └── ordinal-encoding.ipynb
+│   └── one-hot-encoding.ipynb
 └── README.md
